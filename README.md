@@ -9,8 +9,8 @@
 - 📱 Android & Flutter App Developer
 - 🌐 Full-Stack Web Developer (MERN)
 - 🧠 Exploring ASP.NET & Backend Development
-- 📦 Published an Android App on Play Store
-- 🔨 Currently building **QuoteSpark Flutter App**
+- 📦 Published an Android App - CalcMate on Play Store
+
 
 ---
 
