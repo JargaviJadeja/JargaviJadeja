@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Jargavi Jadeja
 
-🎓 **3rd Year B.Tech Computer Engineering Student** at Marwadi University  
+🎓 **4th Year B.Tech Computer Engineering Student** at Marwadi University  
 💻 **Full-Stack Web & Mobile App Developer**
 
 ---
